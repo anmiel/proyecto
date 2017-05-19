@@ -1,0 +1,168 @@
+*{
+  padding: 0;
+  margin: 0;
+  color: #444444;
+}
+header{
+
+  background: rgba(255,255,255,1);
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(214,242,250,1) 50%, rgba(255,255,255,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(50%, rgba(214,242,250,1)), color-stop(100%, rgba(255,255,255,1)));
+background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(214,242,250,1) 50%, rgba(255,255,255,1) 100%);
+background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(214,242,250,1) 50%, rgba(255,255,255,1) 100%);
+background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(214,242,250,1) 50%, rgba(255,255,255,1) 100%);
+background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(214,242,250,1) 50%, rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=0 );
+}
+.nav3{
+  float: none;
+  text-align: center;
+}
+.navbar-brand img{
+  height: 60px;
+  width: auto
+}
+navbar-full{
+  float:none;
+}
+navbar-center{
+    position: absolute;
+    float: none;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+  height:100%;
+}
+.main{
+
+  background: rgba(247,247,247,1);
+  background: -moz-linear-gradient(top, rgba(247,247,247,1) 0%, rgba(240,240,240,1) 50%, rgba(227,227,227,1) 51%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(247,247,247,1)), color-stop(50%, rgba(240,240,240,1)), color-stop(51%, rgba(227,227,227,1)), color-stop(100%, rgba(255,255,255,1)));
+  background: -webkit-linear-gradient(top, rgba(247,247,247,1) 0%, rgba(240,240,240,1) 50%, rgba(227,227,227,1) 51%, rgba(255,255,255,1) 100%);
+  background: -o-linear-gradient(top, rgba(247,247,247,1) 0%, rgba(240,240,240,1) 50%, rgba(227,227,227,1) 51%, rgba(255,255,255,1) 100%);
+  background: -ms-linear-gradient(top, rgba(247,247,247,1) 0%, rgba(240,240,240,1) 50%, rgba(227,227,227,1) 51%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(to bottom, rgba(247,247,247,1) 0%, rgba(240,240,240,1) 50%, rgba(227,227,227,1) 51%, rgba(255,255,255,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f7f7f7', endColorstr='#ffffff', GradientType=0 );
+}
+.vce-border-top{
+  margin-top: 5px;
+  padding-top: 10px;
+  box-shadow: 2px 2px 5px #999;
+border-top-width: 2px;
+border-top-style: solid;
+border-top-color: #1561BF;
+background: rgba(255,255,255,1);
+background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
+background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=0 );
+background: #FFFF;
+}
+p{
+  text-align: justify;
+  font-size: 15px;
+  font-family:verdana,sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  text-align: center;
+  color: #333333;
+  font-family: Century Gothic, sans-serif;
+}
+.jumbotron{
+  font-family: Century Gothic, sans-serif;
+  color: white;
+}
+#toptex2{
+  color:white;
+
+}
+.toptex{
+  font-size: 30px;
+  font-family: Century Gothic, sans-serif;
+
+}
+.container-fluid{
+  text-align: center;
+  font-size: 14px;
+}
+
+header img{
+  height: 105px;
+  width: auto;
+  padding-top: 18px;
+  margin: 0;
+}
+.search{
+  padding: 18px;
+}
+ul li{
+  display: inline-block;
+  margin: 5px;
+  font-size: 12px;
+}
+.frases{
+  text-align: center;
+}
+.footer-bottom-line img{
+height: 20px;
+width: auto;
+}
+.semtex{
+  text-align: center;
+}
+footer{
+  background: rgba(22,107,187,1);
+background: -moz-linear-gradient(left, rgba(22,107,187,1) 0%, rgba(19,85,160,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(22,107,187,1)), color-stop(100%, rgba(19,85,160,1)));
+background: -webkit-linear-gradient(left, rgba(22,107,187,1) 0%, rgba(19,85,160,1) 100%);
+background: -o-linear-gradient(left, rgba(22,107,187,1) 0%, rgba(19,85,160,1) 100%);
+background: -ms-linear-gradient(left, rgba(22,107,187,1) 0%, rgba(19,85,160,1) 100%);
+background: linear-gradient(to right, rgba(22,107,187,1) 0%, rgba(19,85,160,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#166bbb', endColorstr='#1355a0', GradientType=1 );
+}
+.contenido{
+  margin-top: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  box-shadow: 2px 2px 5px #999;
+  background: rgba(255,255,255,1);
+background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(47%, rgba(246,246,246,1)), color-stop(100%, rgba(237,237,237,1)));
+background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 47%, rgba(237,237,237,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ededed', GradientType=1 );
+}
+section img{
+  box-shadow: 5px 5px 5px #999;
+}
+.list-group{
+  height: 225px;
+  text-align: center;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.caja2{
+  width: 240px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.fotos{
+  box-shadow: 2px 2px 5px #999;
+}
+
+a{
+  text-decoration: none;
+  color: #FFFF;
+}
+.color2{
+  color: white;
+}
